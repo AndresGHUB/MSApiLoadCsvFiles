@@ -1,0 +1,6 @@
+@MSApiLoadCsvFiles_HostAddress = http://localhost:5027
+
+GET {{MSApiLoadCsvFiles_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
